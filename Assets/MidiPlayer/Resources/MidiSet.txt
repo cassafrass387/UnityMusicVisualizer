@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<MidiSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SoundFonts>
+    <SoundFontInfo>
+      <Name>GeneralUser GS v1.471</Name>
+      <PatchCount>269</PatchCount>
+      <WaveCount>864</WaveCount>
+      <WaveSize>35262462</WaveSize>
+      <SF2Path>C:/Users/thier/AppData/LocalLow/MusIT/Maestro Midi Player\SoundFont\GeneralUser GS v1.471.sf2</SF2Path>
+    </SoundFontInfo>
+  </SoundFonts>
+  <IndexSelectedSF>0</IndexSelectedSF>
+  <MidiFiles>
+    <string>adelehello</string>
+    <string>Bach - Fugue</string>
+    <string>basic</string>
+    <string>Bjork - Venus As A Boy</string>
+    <string>Debussy - Clair De Lune</string>
+    <string>f minor chords</string>
+    <string>its been so long</string>
+    <string>two chords</string>
+    <string>WishYouWereHere</string>
+  </MidiFiles>
+</MidiSet>

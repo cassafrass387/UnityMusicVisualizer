@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements"
+        xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements"
+        noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Label text="Chord Analysis Test" display-tooltip-when-elided="true"/>
+        <ui:Button text="Play MIDI file" display-tooltip-when-elided="true" name="button"/>
+        <ui:TextField picking-mode="Ignore" label="File Name (excluding .midi)" text="basic" name="input-message" />
+    </ui:VisualElement>
+</ui:UXML>
